@@ -1,0 +1,6 @@
+c:\users\kavi\documents\visual studio 2010\Projects\HelloService\HelloService\bin\Debug\HelloService.dll.config
+c:\users\kavi\documents\visual studio 2010\Projects\HelloService\HelloService\bin\Debug\HelloService.dll
+c:\users\kavi\documents\visual studio 2010\Projects\HelloService\HelloService\bin\Debug\HelloService.pdb
+c:\users\kavi\documents\visual studio 2010\Projects\HelloService\HelloService\obj\Debug\HelloService.dll
+c:\users\kavi\documents\visual studio 2010\Projects\HelloService\HelloService\obj\Debug\HelloService.pdb
+C:\Users\kavi\documents\visual studio 2010\Projects\HelloService\HelloService\obj\Debug\HelloService.csprojResolveAssemblyReference.cache
